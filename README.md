@@ -1,2 +1,0 @@
-# ecommerce-microservices-configurations
-ecommerce-microservices-configurations
